@@ -1,0 +1,2 @@
+NormalLR mse = 4169.76193352028
+GradientLR mse = 4169.753049524876
